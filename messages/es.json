@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about":"Acerca de",
+    "contact":"Contacto"
+    
+  },
+  "home":{
+    "welcome-message":"¡Una cálida bienvenida solo para ti! ¡Sepa que estoy lleno de alegría al tenerte aquí hoy! Tu presencia da calidez a mi corazón. ¡Bienvenido, amigo! ¡Hoy será genial porque estás aquí!",
+    "topic":"¿Cómo inicio un mensaje de bienvenida?",
+    "server-side-component":"Estos son componentes del lado del servidor",
+    "tab-title-home":"Página de inicio"
+  },
+  "about":{
+    "title":"Esta es la página Acerca de",
+    "tab-title-about":"Acerca de"
+  },
+  "contact":{
+    "title":"Esta es la página de Contacto",
+    "tab-title-contact":"Contacto"
+  },
+  "footer":{
+    "description":"Este es mi pie de página"
+  }
+}

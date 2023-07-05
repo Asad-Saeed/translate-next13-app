@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about":"About",
+    "contact":"Contact"
+    
+  },
+  "home":{
+    "welcome-message":"warm welcome just for you! Know that I am filled with joy having you today! Your presence brings warmth to my heart. Welcome, buddy! Today is going to be great for you are here!",
+    "topic":"How do I start a welcome message?",
+    "server-side-component":"This is Server side components",
+    "tab-title-home":"Homepage"
+  },
+  "about":{
+    "title":"This is about page",
+    "tab-title-about":"About"
+  },
+  "contact":{
+    "title":"This is contact page",
+    "tab-title-contact":"Contact"
+  },
+  "footer":{
+    "description":"This is my footer"
+  }
+}
